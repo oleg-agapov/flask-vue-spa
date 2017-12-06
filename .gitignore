@@ -10,6 +10,7 @@ frontend/node_modules/
 # Python
 __pycache__
 backend/venv
+*.pyc
 
 # macOs
 .DS_Store
