@@ -6,3 +6,4 @@ Jinja2>=2.10.1
 MarkupSafe==1.0
 six==1.11.0
 Werkzeug==0.12.2
+requests==2.21.0    
